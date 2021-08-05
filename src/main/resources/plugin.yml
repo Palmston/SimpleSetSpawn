@@ -1,0 +1,8 @@
+name: SimpleSetSpawn
+version: ${project.version}
+main: dev.palmston.simplesetspawn.SimpleSetSpawn
+authors: [Palmston]
+
+commands:
+  setspawn:
+  spawn:
